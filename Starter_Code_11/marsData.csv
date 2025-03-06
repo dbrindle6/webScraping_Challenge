@@ -1,0 +1,26 @@
+Analyze your dataset by using Pandas functions to answer the following questions:
+
+How many months exist on Mars? 
+Answer:  There are 12 months on mars.
+
+How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+Answer:  There are 1867 sols(days) on mars.
+
+What are the coldest and the warmest months on Mars (at the location of Curiosity)?
+Answer:  The coldest month on mars is month 3 (March?).  
+	 The hottest month on mars is month 8 (August). 
+
+
+Which months have the lowest and the highest atmospheric pressure on Mars? 
+Answer:  Month 6 (June) has the lowest atmospheric pressure on mars.
+	 Month 9 (September) has the highest atmospheric pressure on mars.
+
+
+About how many terrestrial (Earth) days exist in a Martian year? 
+Answer:  From the days between the coldest point in 2014 to the coldest point in 2016 (the difference between the two coldest points in the graph), 
+	 there are roughly 726 days apart. This shows a martian year is roughly 726 days apart.
+	 
+
+To answer this question:
+Consider how many days elapse on Earth in the time that Mars circles the Sun once.
+Visually estimate the result by plotting the daily minimum temperature of each observation.
